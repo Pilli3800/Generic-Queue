@@ -5,6 +5,7 @@ _Application that implements different types of queues, dequeues and priority qu
 
 ## Content 📋
 * Class Node
+* Class ExceptionIsEmpty
 * Interface Queud
 * Interface Diqueud
 * Generic Queue with Array
